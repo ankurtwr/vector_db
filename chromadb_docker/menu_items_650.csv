@@ -1,0 +1,651 @@
+id,menu_item
+1,Paneer Tikka
+2,Paneer Butter Masala
+3,Paneer Kadai
+4,Paneer Bhurji
+5,Shahi Paneer
+6,Palak Paneer
+7,Matar Paneer
+8,Chilli Paneer
+9,Paneer Lababdar
+10,Paneer Do Pyaza
+11,Dal Tadka
+12,Dal Makhani
+13,Dal Fry
+14,Dal Palak
+15,Dal Bukhara
+16,Chole
+17,Rajma Masala
+18,Aloo Gobi
+19,Aloo Jeera
+20,Aloo Matar
+21,Aloo Palak
+22,Bhindi Masala
+23,Baingan Bharta
+24,Mix Veg
+25,Veg Kolhapuri
+26,Veg Handi
+27,Malai Kofta
+28,Navratan Korma
+29,Matar Mushroom
+30,Mushroom Masala
+31,Kaju Masala
+32,Butter Chicken
+33,Chicken Tikka
+34,Chicken Tikka Masala
+35,Chicken Korma
+36,Chicken Curry
+37,Chicken Handi
+38,Chicken Kadai
+39,Chicken Do Pyaza
+40,Chicken Lababdar
+41,Chilli Chicken
+42,Chicken 65
+43,Chicken Biryani
+44,Mutton Biryani
+45,Mutton Rogan Josh
+46,Mutton Korma
+47,Mutton Curry
+48,Mutton Handi
+49,Egg Curry
+50,Egg Bhurji
+51,Egg Masala
+52,Veg Biryani
+53,Hyderabadi Biryani
+54,Lucknowi Biryani
+55,Paneer Biryani
+56,Mushroom Biryani
+57,Jeera Rice
+58,Steamed Rice
+59,Peas Pulao
+60,Veg Pulao
+61,Kashmiri Pulao
+62,Tandoori Roti
+63,Butter Roti
+64,Plain Naan
+65,Butter Naan
+66,Garlic Naan
+67,Cheese Naan
+68,Stuffed Naan
+69,Missi Roti
+70,Lachha Paratha
+71,Aloo Paratha
+72,Gobi Paratha
+73,Paneer Paratha
+74,Methi Paratha
+75,Poori Bhaji
+76,Chole Bhature
+77,Amritsari Kulcha
+78,Masala Dosa
+79,Plain Dosa
+80,Mysore Masala Dosa
+81,Cheese Dosa
+82,Rava Dosa
+83,Onion Dosa
+84,Paneer Dosa
+85,Idli
+86,Medu Vada
+87,Sambar Vada
+88,Masala Vada
+89,Uttapam
+90,Onion Uttapam
+91,Paneer Uttapam
+92,Lemon Rice
+93,Curd Rice
+94,Tomato Rice
+95,Veg Hakka Noodles
+96,Schezwan Noodles
+97,Chilli Garlic Noodles
+98,Veg Fried Rice
+99,Schezwan Fried Rice
+100,Manchurian
+101,Gobi Manchurian
+102,Paneer Manchurian
+103,Spring Rolls
+104,Veg Momos
+105,Paneer Momos
+106,Chicken Momos
+107,Chilli Potato
+108,Honey Chilli Potato
+109,Crispy Corn
+110,French Fries
+111,Peri Peri Fries
+112,Cheese Fries
+113,Masala Fries
+114,Margherita Pizza
+115,Farmhouse Pizza
+116,Paneer Pizza
+117,Veggie Pizza
+118,Cheese Burst Pizza
+119,Corn Pizza
+120,Mushroom Pizza
+121,Chicken Pizza
+122,BBQ Chicken Pizza
+123,Pepperoni Pizza
+124,Veg Burger
+125,Paneer Burger
+126,Cheese Burger
+127,Chicken Burger
+128,Crispy Chicken Burger
+129,Veg Sandwich
+130,Grilled Sandwich
+131,Cheese Sandwich
+132,Paneer Sandwich
+133,Club Sandwich
+134,Veg Wrap
+135,Paneer Wrap
+136,Chicken Wrap
+137,Falafel Wrap
+138,Cheese Roll
+139,Samosa
+140,Paneer Samosa
+141,Aloo Samosa
+142,Kachori
+143,Pyaz Kachori
+144,Bread Pakora
+145,Aloo Pakora
+146,Paneer Pakora
+147,Onion Pakora
+148,Mirchi Pakora
+149,Dahi Puri
+150,Pani Puri
+151,Sev Puri
+152,Bhel Puri
+153,Aloo Chaat
+154,Papdi Chaat
+155,Raj Kachori
+156,Dahi Vada
+157,Basket Chaat
+158,Pav Bhaji
+159,Vada Pav
+160,Dabeli
+161,Misal Pav
+162,Pav Sandwich
+163,Cheese Pav Bhaji
+164,Masala Maggi
+165,Cheese Maggi
+166,Veg Maggi
+167,Hot Chocolate
+168,Cold Coffee
+169,Iced Latte
+170,Cappuccino
+171,Cafe Latte
+172,Espresso
+173,Masala Chai
+174,Ginger Tea
+175,Cardamom Tea
+176,Lemon Tea
+177,Green Tea
+178,Filter Coffee
+179,Mango Lassi
+180,Sweet Lassi
+181,Salted Lassi
+182,Plain Lassi
+183,Rose Lassi
+184,Mango Shake
+185,Banana Shake
+186,Chocolate Shake
+187,Strawberry Shake
+188,Oreo Shake
+189,Vanilla Shake
+190,Cold Coffee Shake
+191,Kesar Shake
+192,Dry Fruit Shake
+193,Butterscotch Shake
+194,Mango Juice
+195,Orange Juice
+196,Pineapple Juice
+197,Watermelon Juice
+198,Mosambi Juice
+199,Lemonade
+200,Mint Lemonade
+201,Jaljeera
+202,Aam Panna
+203,Coconut Water
+204,Gulab Jamun
+205,Rasgulla
+206,Rasmalai
+207,Jalebi
+208,Imarti
+209,Gajar Halwa
+210,Moong Dal Halwa
+211,Sooji Halwa
+212,Kulfi
+213,Malai Kulfi
+214,Kesar Kulfi
+215,Vanilla Ice Cream
+216,Chocolate Ice Cream
+217,Strawberry Ice Cream
+218,Butterscotch Ice Cream
+219,Brownie
+220,Chocolate Brownie
+221,Walnut Brownie
+222,Chocolate Cake
+223,Black Forest Cake
+224,Red Velvet Cake
+225,Pineapple Cake
+226,Cheesecake
+227,Chocolate Mousse
+228,Fruit Custard
+229,Kheer
+230,Rice Kheer
+231,Phirni
+232,Rabri
+233,Shahi Tukda
+234,Gajar Ka Halwa
+235,Special Paneer Tikka
+236,Special Paneer Butter Masala
+237,Special Paneer Kadai
+238,Special Paneer Bhurji
+239,Special Shahi Paneer
+240,Special Palak Paneer
+241,Special Matar Paneer
+242,Special Chilli Paneer
+243,Special Paneer Lababdar
+244,Special Paneer Do Pyaza
+245,Special Dal Tadka
+246,Special Dal Makhani
+247,Special Dal Fry
+248,Special Dal Palak
+249,Special Dal Bukhara
+250,Special Chole
+251,Special Rajma Masala
+252,Special Aloo Gobi
+253,Special Aloo Jeera
+254,Special Aloo Matar
+255,Special Aloo Palak
+256,Special Bhindi Masala
+257,Special Baingan Bharta
+258,Special Mix Veg
+259,Special Veg Kolhapuri
+260,Special Veg Handi
+261,Special Malai Kofta
+262,Special Navratan Korma
+263,Special Matar Mushroom
+264,Special Mushroom Masala
+265,Special Kaju Masala
+266,Special Butter Chicken
+267,Special Chicken Tikka
+268,Special Chicken Tikka Masala
+269,Special Chicken Korma
+270,Special Chicken Curry
+271,Special Chicken Handi
+272,Special Chicken Kadai
+273,Special Chicken Do Pyaza
+274,Special Chicken Lababdar
+275,Special Chilli Chicken
+276,Special Chicken 65
+277,Special Chicken Biryani
+278,Special Mutton Biryani
+279,Special Mutton Rogan Josh
+280,Special Mutton Korma
+281,Special Mutton Curry
+282,Special Mutton Handi
+283,Special Egg Curry
+284,Special Egg Bhurji
+285,Special Egg Masala
+286,Special Veg Biryani
+287,Special Hyderabadi Biryani
+288,Special Lucknowi Biryani
+289,Special Paneer Biryani
+290,Special Mushroom Biryani
+291,Special Jeera Rice
+292,Special Steamed Rice
+293,Special Peas Pulao
+294,Special Veg Pulao
+295,Special Kashmiri Pulao
+296,Special Tandoori Roti
+297,Special Butter Roti
+298,Special Plain Naan
+299,Special Butter Naan
+300,Special Garlic Naan
+301,Special Cheese Naan
+302,Special Stuffed Naan
+303,Special Missi Roti
+304,Special Lachha Paratha
+305,Special Aloo Paratha
+306,Special Gobi Paratha
+307,Special Paneer Paratha
+308,Special Methi Paratha
+309,Special Poori Bhaji
+310,Special Chole Bhature
+311,Special Amritsari Kulcha
+312,Special Masala Dosa
+313,Special Plain Dosa
+314,Special Mysore Masala Dosa
+315,Special Cheese Dosa
+316,Special Rava Dosa
+317,Special Onion Dosa
+318,Special Paneer Dosa
+319,Special Idli
+320,Special Medu Vada
+321,Special Sambar Vada
+322,Special Masala Vada
+323,Special Uttapam
+324,Special Onion Uttapam
+325,Special Paneer Uttapam
+326,Special Lemon Rice
+327,Special Curd Rice
+328,Special Tomato Rice
+329,Special Veg Hakka Noodles
+330,Special Schezwan Noodles
+331,Special Chilli Garlic Noodles
+332,Special Veg Fried Rice
+333,Special Schezwan Fried Rice
+334,Special Manchurian
+335,Special Gobi Manchurian
+336,Special Paneer Manchurian
+337,Special Spring Rolls
+338,Special Veg Momos
+339,Special Paneer Momos
+340,Special Chicken Momos
+341,Special Chilli Potato
+342,Special Honey Chilli Potato
+343,Special Crispy Corn
+344,Special French Fries
+345,Special Peri Peri Fries
+346,Special Cheese Fries
+347,Special Masala Fries
+348,Special Margherita Pizza
+349,Special Farmhouse Pizza
+350,Special Paneer Pizza
+351,Special Veggie Pizza
+352,Special Cheese Burst Pizza
+353,Special Corn Pizza
+354,Special Mushroom Pizza
+355,Special Chicken Pizza
+356,Special BBQ Chicken Pizza
+357,Special Pepperoni Pizza
+358,Special Veg Burger
+359,Special Paneer Burger
+360,Special Cheese Burger
+361,Special Chicken Burger
+362,Special Crispy Chicken Burger
+363,Special Veg Sandwich
+364,Special Grilled Sandwich
+365,Special Cheese Sandwich
+366,Special Paneer Sandwich
+367,Special Club Sandwich
+368,Special Veg Wrap
+369,Special Paneer Wrap
+370,Special Chicken Wrap
+371,Special Falafel Wrap
+372,Special Cheese Roll
+373,Special Samosa
+374,Special Paneer Samosa
+375,Special Aloo Samosa
+376,Special Kachori
+377,Special Pyaz Kachori
+378,Special Bread Pakora
+379,Special Aloo Pakora
+380,Special Paneer Pakora
+381,Special Onion Pakora
+382,Special Mirchi Pakora
+383,Special Dahi Puri
+384,Special Pani Puri
+385,Special Sev Puri
+386,Special Bhel Puri
+387,Special Aloo Chaat
+388,Special Papdi Chaat
+389,Special Raj Kachori
+390,Special Dahi Vada
+391,Special Basket Chaat
+392,Special Pav Bhaji
+393,Special Vada Pav
+394,Special Dabeli
+395,Special Misal Pav
+396,Special Pav Sandwich
+397,Special Cheese Pav Bhaji
+398,Special Masala Maggi
+399,Special Cheese Maggi
+400,Special Veg Maggi
+401,Special Hot Chocolate
+402,Special Cold Coffee
+403,Special Iced Latte
+404,Special Cappuccino
+405,Special Cafe Latte
+406,Special Espresso
+407,Special Masala Chai
+408,Special Ginger Tea
+409,Special Cardamom Tea
+410,Special Lemon Tea
+411,Special Green Tea
+412,Special Filter Coffee
+413,Special Mango Lassi
+414,Special Sweet Lassi
+415,Special Salted Lassi
+416,Special Plain Lassi
+417,Special Rose Lassi
+418,Special Mango Shake
+419,Special Banana Shake
+420,Special Chocolate Shake
+421,Special Strawberry Shake
+422,Special Oreo Shake
+423,Special Vanilla Shake
+424,Special Cold Coffee Shake
+425,Special Kesar Shake
+426,Special Dry Fruit Shake
+427,Special Butterscotch Shake
+428,Special Mango Juice
+429,Special Orange Juice
+430,Special Pineapple Juice
+431,Special Watermelon Juice
+432,Special Mosambi Juice
+433,Special Lemonade
+434,Special Mint Lemonade
+435,Special Jaljeera
+436,Special Aam Panna
+437,Special Coconut Water
+438,Special Gulab Jamun
+439,Special Rasgulla
+440,Special Rasmalai
+441,Special Jalebi
+442,Special Imarti
+443,Special Gajar Halwa
+444,Special Moong Dal Halwa
+445,Special Sooji Halwa
+446,Special Kulfi
+447,Special Malai Kulfi
+448,Special Kesar Kulfi
+449,Special Vanilla Ice Cream
+450,Special Chocolate Ice Cream
+451,Special Strawberry Ice Cream
+452,Special Butterscotch Ice Cream
+453,Special Brownie
+454,Special Chocolate Brownie
+455,Special Walnut Brownie
+456,Special Chocolate Cake
+457,Special Black Forest Cake
+458,Special Red Velvet Cake
+459,Special Pineapple Cake
+460,Special Cheesecake
+461,Special Chocolate Mousse
+462,Special Fruit Custard
+463,Special Kheer
+464,Special Rice Kheer
+465,Special Phirni
+466,Special Rabri
+467,Special Shahi Tukda
+468,Special Gajar Ka Halwa
+469,Classic Paneer Tikka
+470,Classic Paneer Butter Masala
+471,Classic Paneer Kadai
+472,Classic Paneer Bhurji
+473,Classic Shahi Paneer
+474,Classic Palak Paneer
+475,Classic Matar Paneer
+476,Classic Chilli Paneer
+477,Classic Paneer Lababdar
+478,Classic Paneer Do Pyaza
+479,Classic Dal Tadka
+480,Classic Dal Makhani
+481,Classic Dal Fry
+482,Classic Dal Palak
+483,Classic Dal Bukhara
+484,Classic Chole
+485,Classic Rajma Masala
+486,Classic Aloo Gobi
+487,Classic Aloo Jeera
+488,Classic Aloo Matar
+489,Classic Aloo Palak
+490,Classic Bhindi Masala
+491,Classic Baingan Bharta
+492,Classic Mix Veg
+493,Classic Veg Kolhapuri
+494,Classic Veg Handi
+495,Classic Malai Kofta
+496,Classic Navratan Korma
+497,Classic Matar Mushroom
+498,Classic Mushroom Masala
+499,Classic Kaju Masala
+500,Classic Butter Chicken
+501,Classic Chicken Tikka
+502,Classic Chicken Tikka Masala
+503,Classic Chicken Korma
+504,Classic Chicken Curry
+505,Classic Chicken Handi
+506,Classic Chicken Kadai
+507,Classic Chicken Do Pyaza
+508,Classic Chicken Lababdar
+509,Classic Chilli Chicken
+510,Classic Chicken 65
+511,Classic Chicken Biryani
+512,Classic Mutton Biryani
+513,Classic Mutton Rogan Josh
+514,Classic Mutton Korma
+515,Classic Mutton Curry
+516,Classic Mutton Handi
+517,Classic Egg Curry
+518,Classic Egg Bhurji
+519,Classic Egg Masala
+520,Classic Veg Biryani
+521,Classic Hyderabadi Biryani
+522,Classic Lucknowi Biryani
+523,Classic Paneer Biryani
+524,Classic Mushroom Biryani
+525,Classic Jeera Rice
+526,Classic Steamed Rice
+527,Classic Peas Pulao
+528,Classic Veg Pulao
+529,Classic Kashmiri Pulao
+530,Classic Tandoori Roti
+531,Classic Butter Roti
+532,Classic Plain Naan
+533,Classic Butter Naan
+534,Classic Garlic Naan
+535,Classic Cheese Naan
+536,Classic Stuffed Naan
+537,Classic Missi Roti
+538,Classic Lachha Paratha
+539,Classic Aloo Paratha
+540,Classic Gobi Paratha
+541,Classic Paneer Paratha
+542,Classic Methi Paratha
+543,Classic Poori Bhaji
+544,Classic Chole Bhature
+545,Classic Amritsari Kulcha
+546,Classic Masala Dosa
+547,Classic Plain Dosa
+548,Classic Mysore Masala Dosa
+549,Classic Cheese Dosa
+550,Classic Rava Dosa
+551,Classic Onion Dosa
+552,Classic Paneer Dosa
+553,Classic Idli
+554,Classic Medu Vada
+555,Classic Sambar Vada
+556,Classic Masala Vada
+557,Classic Uttapam
+558,Classic Onion Uttapam
+559,Classic Paneer Uttapam
+560,Classic Lemon Rice
+561,Classic Curd Rice
+562,Classic Tomato Rice
+563,Classic Veg Hakka Noodles
+564,Classic Schezwan Noodles
+565,Classic Chilli Garlic Noodles
+566,Classic Veg Fried Rice
+567,Classic Schezwan Fried Rice
+568,Classic Manchurian
+569,Classic Gobi Manchurian
+570,Classic Paneer Manchurian
+571,Classic Spring Rolls
+572,Classic Veg Momos
+573,Classic Paneer Momos
+574,Classic Chicken Momos
+575,Classic Chilli Potato
+576,Classic Honey Chilli Potato
+577,Classic Crispy Corn
+578,Classic French Fries
+579,Classic Peri Peri Fries
+580,Classic Cheese Fries
+581,Classic Masala Fries
+582,Classic Margherita Pizza
+583,Classic Farmhouse Pizza
+584,Classic Paneer Pizza
+585,Classic Veggie Pizza
+586,Classic Cheese Burst Pizza
+587,Classic Corn Pizza
+588,Classic Mushroom Pizza
+589,Classic Chicken Pizza
+590,Classic BBQ Chicken Pizza
+591,Classic Pepperoni Pizza
+592,Classic Veg Burger
+593,Classic Paneer Burger
+594,Classic Cheese Burger
+595,Classic Chicken Burger
+596,Classic Crispy Chicken Burger
+597,Classic Veg Sandwich
+598,Classic Grilled Sandwich
+599,Classic Cheese Sandwich
+600,Classic Paneer Sandwich
+601,Classic Club Sandwich
+602,Classic Veg Wrap
+603,Classic Paneer Wrap
+604,Classic Chicken Wrap
+605,Classic Falafel Wrap
+606,Classic Cheese Roll
+607,Classic Samosa
+608,Classic Paneer Samosa
+609,Classic Aloo Samosa
+610,Classic Kachori
+611,Classic Pyaz Kachori
+612,Classic Bread Pakora
+613,Classic Aloo Pakora
+614,Classic Paneer Pakora
+615,Classic Onion Pakora
+616,Classic Mirchi Pakora
+617,Classic Dahi Puri
+618,Classic Pani Puri
+619,Classic Sev Puri
+620,Classic Bhel Puri
+621,Classic Aloo Chaat
+622,Classic Papdi Chaat
+623,Classic Raj Kachori
+624,Classic Dahi Vada
+625,Classic Basket Chaat
+626,Classic Pav Bhaji
+627,Classic Vada Pav
+628,Classic Dabeli
+629,Classic Misal Pav
+630,Classic Pav Sandwich
+631,Classic Cheese Pav Bhaji
+632,Classic Masala Maggi
+633,Classic Cheese Maggi
+634,Classic Veg Maggi
+635,Classic Hot Chocolate
+636,Classic Cold Coffee
+637,Classic Iced Latte
+638,Classic Cappuccino
+639,Classic Cafe Latte
+640,Classic Espresso
+641,Classic Masala Chai
+642,Classic Ginger Tea
+643,Classic Cardamom Tea
+644,Classic Lemon Tea
+645,Classic Green Tea
+646,Classic Filter Coffee
+647,Classic Mango Lassi
+648,Classic Sweet Lassi
+649,Classic Salted Lassi
+650,Classic Plain Lassi

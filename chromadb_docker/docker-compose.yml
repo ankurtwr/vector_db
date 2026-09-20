@@ -1,0 +1,13 @@
+services:
+  vectordb:
+    image: docker.io/chromadb/chroma:1.5.9
+    container_name: chroma_docker
+
+    ports:
+      - "8800:8000"
+
+    env_file:
+      - ./.env
+
+    volumes:
+      - ./my_db:/data
